@@ -23,4 +23,4 @@ It extracts text from text PDFs, uses Amazon Nova Lite to reconstruct logical gr
 
 ## Notes
 - This app is designed for text-based PDFs.
-- It currently uses Amazon Bedrock / Nova Lite for structure reconstruction.# Linefix-pdf
+- It currently uses Amazon Bedrock / Nova Lite for structure reconstruction.
