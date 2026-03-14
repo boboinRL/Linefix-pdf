@@ -1,0 +1,6 @@
+streamlit
+pdfplumber
+openpyxl
+pandas
+boto3
+botocore
